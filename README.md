@@ -24,7 +24,7 @@ Soy una **desarrolladora web full stack** con gran motivación por aprender y cr
 ---
 
 ## 📫 Conéctate conmigo  
-[![LinkedIn](https://www.linkedin.com/in/carla-calizaya/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visita%20mi%20perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/carla-calizaya/)  
 📩 **Email:** carlasiles1@hotmail.com
 
 ✨ ¡Gracias por visitar mi perfil! Siempre estoy abierta a nuevas oportunidades y colaboraciones. 😊  
