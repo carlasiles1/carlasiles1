@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 ¡Hola! Soy Carla Siles
 
-<!--
-**carlasiles1/carlasiles1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrolladora Web Full Stack | 💡 Apasionada por la tecnología y la programación
 
-Here are some ideas to get you started:
+Soy una desarrolladora web full stack con gran motivación por aprender y crecer en el sector tecnológico. Mi experiencia en distintos sectores me ha dotado de una visión adaptable y resolutiva, permitiéndome afrontar desafíos con creatividad y pensamiento analítico. Me encanta el desarrollo web y busco oportunidades para seguir evolucionando y aportar valor a proyectos innovadores.
+🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Lenguajes: HTML5, CSS3, JavaScript
+🔹 Frameworks & Plataformas: Bootstrap, WordPress
+🔹 Herramientas: Git, Trello,Scrum
+💡 Competencias
+
+✅ Trabajo en equipo
+✅ Resolutiva y proactiva
+✅ Comunicación efectiva
+✅ Capacidad de aprendizaje
+✅ Pensamiento analítico
+📫 Conéctate conmigo
+
+LinkedIn
+📩 Email: carlasiles1@hotmail.com
+
+✨ ¡Gracias por visitar mi perfil! Siempre estoy abierta a nuevas oportunidades y colaboraciones. 😊
